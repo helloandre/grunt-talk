@@ -1,0 +1,8 @@
+{
+    "type": "static",
+    "files": [
+        "src/js/lib/jquery.js",
+        "src/js/lib/underscore.js",
+        "src/js/lib/backbone.js"
+    ]
+}

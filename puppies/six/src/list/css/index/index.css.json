@@ -1,0 +1,6 @@
+{
+    "type": "volatile",
+    "files": [
+        "src/css/index/index.css"
+    ]
+}

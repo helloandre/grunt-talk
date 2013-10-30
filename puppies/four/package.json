@@ -1,0 +1,10 @@
+{
+    "name": "puppyfour",
+    "version": "0.1.0",
+    "devDependencies": {
+        "grunt": "~0.4.1",
+        "grunt-contrib-uglify": "~0.2.4"
+    },
+    "srcpath": "src/",
+    "destpath": "public/"
+}

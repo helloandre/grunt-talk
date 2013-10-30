@@ -1,0 +1,7 @@
+{
+    "type": "static",
+    "watch": ["src/less/bootstrap/*.less"],
+    "files": [
+        "src/less/bootstrap/bootstrap.less"
+    ]
+}
