@@ -1,3 +1,3 @@
 $(function() {
-    alert('document.ready called');
+    $('body').text('document.ready called');
 })
